@@ -9,7 +9,7 @@ public class ConnectionFactory {
 	private String url = "jdbc:mysql:///db_mm";
 	private String driver = "com.mysql.jdbc.Driver";
 	private String user = "root";
-	private String password = "123456";
+	private String password = "123457";
 	private Connection connection = null;
 	private static ConnectionFactory connectionFactory = null;
 	
