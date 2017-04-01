@@ -1,0 +1,5 @@
+com\mxl\service\imp\UserServiceimp.class
+com\mxl\service\UserService.class
+com\mxl\dao\UserDao.class
+com\mxl\dao\imp\UserDaoImp.class
+com\mxl\connection\ConnectionFactory.class

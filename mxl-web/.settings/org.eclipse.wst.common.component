@@ -3,6 +3,7 @@
     <wb-module deploy-name="mxl-web">
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
         <wb-resource deploy-path="/" source-path="/src/main/webapp"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resource"/>
         <dependent-module archiveName="mxl-common-0.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/mxl-common/mxl-common">
             <dependency-type>uses</dependency-type>
         </dependent-module>
